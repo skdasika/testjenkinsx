@@ -6,9 +6,9 @@ spec:
     schedule: ""
   cluster:
     chartRepository: http://bucketrepo.jx.svc.cluster.local/bucketrepo/charts
-    clusterName: todo
+    clusterName: testJenkinsxCluster
     devEnvApprovers:
-    - todo
+    - testJenkinsxAppSvr
     environmentGitOwner: todo
     gitKind: github
     gitName: github
